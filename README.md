@@ -13,7 +13,7 @@
 <div style="display: inline_block">
   <h3>ℹ️ Sobre mim</h3>
   <ul>
-    <li>👦🏾‍ Sou Ivan Cardoso, desenvolvedor Front-end e bem intencionado com o Back-end.</li>
+    <li>👦🏾‍ Sou Ivan Cardoso, desenvolvedor Back-end e bem intencionado com o Front-end.</li>
     <li>🎓 5º Semestre de TADS - IFSP.</li>
     <li>🎥 Gosto de assistir filmes e séries.</li>
   </ul>
@@ -100,7 +100,7 @@
     </p>
 </div>
 
-  <h3>🖥️ Ambiente de desenvolvimento:</h3>
+  <h4>🖥️ Ambiente de desenvolvimento:</h4>
     <p align="left">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsCode" width="30" height="30"/>
@@ -123,19 +123,40 @@
       </a>
       &nbsp;
     </p>
+    
+<div style="display: inline_block">
+   <h4>📄 Certificados:</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_curso_java-UC-da4c6faf-bc54-4616-96af-4f400b1128eb.pdf">
+        Java COMPLETO Programação Orientada a Objetos + Projetos 
+      </a>
+    </li>
+     <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_curso_UML-UC-376f614b-7891-4ba4-ad28-c94624c5b837.pdf">
+        Modelagem de Dados UML (Análise & Projeto Orientado a Objetos) 
+      </a>
+    </li>
+     <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_curso_WEB_UC-e365ee17-f74c-4e93-b3d2-583324028258.pdf">
+        Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
+      </a>
+    </li>
+  </ul>
+</div>
 
 <h3>:mailbox_with_mail: Contatos:</h3>
   <p align="left">
     <a href="https://github.com/coivan/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github-icon"/>
+      <img src="https://github.com/coivan/devicon/blob/master/icons/github/github-original.svg" alt="Github-icon" width="30" height="30"/>
     </a>
       &nbsp;
     <a href="https://www.linkedin.com/in/ivan-cardoso-442691191/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-icon"/>
+      <img src="https://github.com/coivan/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin-icon" width="30" height="30"/>
     </a>
       &nbsp;
     <a href="mailto:c.ivan@aluno.ifsp.edu.br" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-icon"/>
+      <img src="https://github.com/coivan/devicon/blob/master/icons/gmail/gmail-original.svg" alt="Gmail-icon" width="30" height="30"/>
     </a>
   </p>
 
