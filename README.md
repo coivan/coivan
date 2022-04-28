@@ -1,11 +1,11 @@
 
-<h2 align="center">Hey! Sou o Ivan</h2>
+<h2 align="center">Hello World! Sou o Ivan</h2>
 
 <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coivan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-BR&custom_title=Ivan - Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coivan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-BR&custom_title=Estatísticas do GitHub do Ivan"/>
   &nbsp;
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coivan&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coivan&layout=compact&langs_count=7&theme=algolia&locale=pt-BR"/>
   &nbsp;
   &nbsp;
 </div>
@@ -119,7 +119,7 @@
       </a>
       &nbsp;
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="30" height="30"/>
+        <img src="https://github.com/coivan/devicon/blob/master/icons/firefox/firefox-logo.png" alt="Firefox" width="30" height="30"/>
       </a>
       &nbsp;
     </p>
