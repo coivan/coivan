@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello World! Sou o Ivan</h2>
+<h2 align="center">Hey! Sou o Ivan</h2>
 
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coivan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-BR&custom_title=Estatísticas do GitHub do Ivan"/>
@@ -104,6 +104,10 @@
     <p align="left">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsCode" width="30" height="30"/>
+      </a>
+      &nbsp;
+      <a href="#">
+        <img src="https://github.com/coivan/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
       </a>
       &nbsp;
       <a href="#">
