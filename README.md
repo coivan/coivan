@@ -146,6 +146,11 @@
         Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
       </a>
     </li>
+    <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_semana_spring_react_DS.pdf">
+        Semana Spring React 2022
+      </a>
+    </li> 
   </ul>
 </div>
 
