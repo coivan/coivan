@@ -13,8 +13,8 @@
 <div style="display: inline_block">
   <h3>ℹ️ Sobre mim</h3>
   <ul>
-    <li>👦🏾‍ Sou Ivan Cardoso, desenvolvedor Back-end e bem intencionado com o Front-end.</li>
-    <li>🎓 5º Semestre de TADS - IFSP.</li>
+    <li>👦🏾‍ Sou Ivan Cardoso, desenvolvedor Fullstack.</li>
+    <li>🎓 6º Semestre de TADS - IFSP.</li>
     <li>🎥 Gosto de assistir filmes e séries.</li>
   </ul>
 </div>
@@ -51,7 +51,7 @@
       <a href="#">
             <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <a href="#">
-            <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+            <img alt="4GL" src="https://img.shields.io/badge/4GL-language-green" />
       </a>
     </p>
 
@@ -74,6 +74,12 @@
       </a>
       <a href="#">
             <img alt="PostegreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </a>
+      <a href="#">
+            <img alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-database-blue" />
+      </a>
+      <a href="#">
+            <img alt="Oracle" src="https://img.shields.io/badge/Oracle-database-red" />
       </a>
       <a href="#">
             <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -162,10 +168,6 @@
       &nbsp;
     <a href="https://www.linkedin.com/in/ivan-cardoso-442691191/" target="_blank">
       <img src="https://github.com/coivan/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin-icon" width="30" height="30"/>
-    </a>
-      &nbsp;
-    <a href="mailto:c.ivan@aluno.ifsp.edu.br" target="_blank">
-      <img src="https://github.com/coivan/devicon/blob/master/icons/gmail/gmail-original.svg" alt="Gmail-icon" width="30" height="30"/>
     </a>
   </p>
 
