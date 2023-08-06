@@ -1,10 +1,7 @@
 
-<h2 align="center">Hey! Sou o Ivan</h2>
+<h2 align="center">Olá Mundo!</h2>
 
 <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coivan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-BR&custom_title=Estatísticas do GitHub do Ivan"/>
-  &nbsp;
-  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coivan&layout=compact&langs_count=7&theme=algolia&locale=pt-BR"/>
   &nbsp;
   &nbsp;
@@ -13,45 +10,41 @@
 <div style="display: inline_block">
   <h3>ℹ️ Sobre mim</h3>
   <ul>
-    <li>👦🏾‍ Sou Ivan Cardoso, desenvolvedor Fullstack.</li>
-    <li>🎓 6º Semestre de TADS - IFSP.</li>
-    <li>🎥 Gosto de assistir filmes e séries.</li>
+    <li>👦🏾‍ Eu sou o Ivan Cardoso, Desenvolvedor Fullstack.</li>
+    <li>🎓 Analista e Desenvolvedor de Sistemas pelo IFSP de Campinas/SP.</li>
+    <li>😃 Gosto de ler bons livros e assistir filmes.</li>
   </ul>
 </div>
-
-  <img 
-       src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" 
-       alt="Gif-icon" 
-       align="right"
-       width="300" 
-       height="200"
-  />
 
 <div>
   <h3>📚 Conhecimentos:</h3>
 
-  <h4>💻 Linguagens - Font-end</h4>
+  <h4>💻 Font-End</h4>
     <p align="left">
       <a href="#">
-            <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+            <img alt="HTML" src="https://img.shields.io/badge/HTML-language-green" />
       </a>
       <a href="#">
-            <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-      </a>  
+            <img alt="CSS" src="https://img.shields.io/badge/CSS-Style-green" />
+      </a>
       <a href="#">
-            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      </a> 
+            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-language-green" />
+      </a>
     </p>
   
-  <h4>💻 Linguagens - Back-end</h4>
+  <h4>💻 Back-End</h4>
     <p align="left">
       <a href="#">
-            <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+            <img alt="Java" src="https://img.shields.io/badge/Java-language-green" />
       </a>
       <a href="#">
-            <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+            <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-language-green" />
+      </a>
       <a href="#">
-            <img alt="4GL" src="https://img.shields.io/badge/4GL-language-green" />
+            <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-JavaScrip_runtime-green" />
+      </a>
+      <a href="#">
+            <img alt="4GL" src="https://img.shields.io/badge/Infórmix_4GL-language-green" />
       </a>
     </p>
 
@@ -59,10 +52,10 @@
   <h4>🔧 Frameworks</h4>
     <p align="left">
       <a href="#">
-            <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+            <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-framework-green" />
       </a>
       <a href="#">
-            <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+            <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-framework-green" />
       </a>
     </p>
 
@@ -70,38 +63,35 @@
   <h4>🛢 Banco de Dados</h4>
     <p align="left">
       <a href="#">
-            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+            <img alt="PostegreSQL" src="https://img.shields.io/badge/PostegreSQL-database-green" />
       </a>
       <a href="#">
-            <img alt="PostegreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+            <img alt="SQLServer" src="https://img.shields.io/badge/SQLServer-database-green" />
       </a>
       <a href="#">
-            <img alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-database-blue" />
+            <img alt="Oracle" src="https://img.shields.io/badge/Oracle-database-green" />
       </a>
       <a href="#">
-            <img alt="Oracle" src="https://img.shields.io/badge/Oracle-database-red" />
+            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-database-green" />
       </a>
       <a href="#">
-            <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-database-green" />
       </a>
     </p>
 
   <h4>📱 Tecnologias</h4>
     <p align="left">
       <a href="#">
-            <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+            <img alt="Git" src="https://img.shields.io/badge/Git-version_control_system-green" />
       </a>
       <a href="#">
-            <img alt="Node" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+            <img alt="REST(ful)" src="https://img.shields.io/badge/REST(ful)-API-green" />
       </a>
       <a href="#">
-            <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+            <img alt="Postman" src="https://img.shields.io/badge/Postman-API_testing_tool-green" />
       </a>
       <a href="#">
-            <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-      </a>
-      <a href="#">
-            <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+            <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-PHP_development_stack-green" />
       </a>
     </p>
 </div>
@@ -109,11 +99,7 @@
   <h4>🖥️ Ambiente de desenvolvimento:</h4>
     <p align="left">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsCode" width="30" height="30"/>
-      </a>
-      &nbsp;
-      <a href="#">
-        <img src="https://github.com/coivan/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"       alt="vsCode" width="30" height="30"/>
       </a>
       &nbsp;
       <a href="#">
@@ -129,7 +115,7 @@
       </a>
       &nbsp;
       <a href="#">
-        <img src="https://github.com/coivan/devicon/blob/master/icons/firefox/firefox-logo.png" alt="Firefox" width="30" height="30"/>
+        <img src="https://github.com/coivan/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
       </a>
       &nbsp;
     </p>
@@ -150,6 +136,21 @@
      <li>
       <a href="https://github.com/coivan/certificados/blob/master/certificado_curso_WEB_UC-e365ee17-f74c-4e93-b3d2-583324028258.pdf">
         Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_curso_Clean_Code_UC-6245dc44-eb45-4352-bc4d-fc307155816a.pdf">
+        Clean Code com JavaScript - Escreva Código como um Mestre 
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/coivan/certificados/blob/master/certificado_Introduction_to_cybersecurity_cisco.pdf">
+        Introduction to Cybersecurity - Cisco 
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/coivan/certificados/blob/master/cetificado_Cybersecurity_Essentials_Cisco.pdf">
+        Cybersecurity Essentials - Cisco 
       </a>
     </li>
     <li>
